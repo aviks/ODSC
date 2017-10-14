@@ -2,11 +2,11 @@
 
 Julia for DataScientists at ODSC London 2017
 
+This page: https://github.com/aviks/ODSC
+
 ## Instructions
 
 1. Log in to https://next.juliabox.com
-
-### Install Packages
 
 2. Click 'Packages' / 'Yours', and add the following packages by typing their name in the text box, and clicking the '+' button.
     * Query
@@ -14,8 +14,6 @@ Julia for DataScientists at ODSC London 2017
     * Flux
 
 3. Click the 'Start' button to begin the installation process. 
-
-### Sync notebooks
 
 4. Click 'New' / 'Terminal'. A terminal will open in a new tab on your browser. In the terminal type the following commands: 
 
